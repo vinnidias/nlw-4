@@ -17,7 +17,7 @@ function App() {
       </Button>   
 
       <Button color="green">
-        Botão três
+        Botão 3
       </Button>   
     </div>
   );
