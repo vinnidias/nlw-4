@@ -1,0 +1,83 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a pala da mão virada para frente e puxe os dedos para cima por 10 segundos por braço",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Com os pés separados e os joelhos levemente flexionados, vire o tronco para direita e depois para a esquerda em movimentos constantes. Conte 10 repetições para cada lado e descanse.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direira e para a esquerda, permanecendo na posição por 15 segundos por lado",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a pala da mão virada para frente e puxe os dedos para cima por 30 segundos",
+        "amount": 50
+    },
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a pala da mão virada para frente e puxe os dedos para cima por 30 segundos",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Com os pés afastados paralelos aos ombros, coloque os braços para trás, entrelace os dedos e estique.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Com os pés afastados paralelos aos ombros, flexione levemente os joelhos e coloque os braços a sua frente, coloque a mão esquerda em frente à direita e faça uma pressão alongando os músculos do antebraço, troque o lado.",
+        "amount": 90
+    },
+    {
+        "type": "body",
+        "description": "Flexionando o joelho e jogando-o para trás, segure os pés por 15 segundos alongando os músculos da perna, troque o lado.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Com o auxílio de uma cadeira, suba a perna e apoie na cadeira, tente alcançar o pé com os braços, mas cuidado para não passar dos limites e ter uma distensão, troque de perna e repita o movimento.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "De pé e com os pés unidos, você eleva seu corpo ficando nas pontas dos pés. Mantenha-se na posição por 20 segundos e volte a posição inicial, repita pelo menos 5 vezes.",
+        "amount": 50
+    },
+    {
+        "type": "body",
+        "description": "Incline o pescoço para a esquerda. Lentamente, rotacione o pescoço no sentido horário, tentando encostar o queixo no peito. Em seguida, incline-o para a direita e deixe a cabeça cair sobre as costas o quanto for possível. Faça quatro rotações em cada sentido.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Com as pernas apontadas para a frente e sem virá-las, coloque sua mão direita no braço esquerdo da cadeira e o seu braço esquerdo nas costas da cadeira. Puxe até sentir a coluna e os músculos das costas, fazendo uma rotação. Segure por 20 segundos para que o alongamento surta efeito. Faça para os dois lados.",
+        "amount": 100
+    },
+    {
+        "type": "eye",
+        "description": "Assentado, aperte os olhos e feche sua boca bem apertada. Segure o movimento por pelo menos 5 segundos e relaxe. Repita-o por várias vezes.",
+        "amount": 80
+    },
+    {
+        "type": "eye",
+        "description": "Feche os olhos e tente relaxar o máximo que puder. Cubra suas pálpebras com a palma de suas mãos para proteger os olhos da luz.",
+        "amount": 100
+    },
+    {
+        "type": "eye",
+        "description": "Foque o olhar em um objeto próximo e em seguida em um objeto distante.",
+        "amount": 70
+    },
+    {
+        "type": "eye",
+        "description": "Fixe o olhar em um ponto e gire sua cabeça para a direita e para a esquerda. Repita o movimento por 10 vezes.",
+        "amount": 60
+    }
+
+]
